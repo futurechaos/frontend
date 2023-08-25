@@ -1,0 +1,17 @@
+.testimonial{
+    /* border: 2px solid brown; */
+    height: 70vh;
+    background-color: #393E46;
+}
+.testimonial-header{
+    font-family: 'customFont', sans-serif;
+    color: #eeeeee;
+    text-align: center;
+    padding: 3rem;
+    letter-spacing: 3px;
+}
+.testimonial-footer{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+}
